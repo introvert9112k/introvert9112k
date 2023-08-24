@@ -1,5 +1,4 @@
 
-[![MasterHead](https://c4.wallpaperflare.com/wallpaper/168/328/977/anonymus-hacker-computer-4k-wallpaper-preview.jpg)](https://sri9112k.io) 
 <h1 align="center">Hi 👋, I'm SaiSri Angajala</h1>
 <h3 align="center">Mech Dual'24 IIT Ropar | MERN Developer | knight @leetcode.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
